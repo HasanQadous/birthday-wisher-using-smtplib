@@ -5,7 +5,7 @@ import smtplib
 import datetime as dt
 
 MY_MAIL = "hassan_tariq74@outlook.com"
-MY_PASS = "Hasn1998"
+MY_PASS = ""
 
 data = pandas.read_csv("birthdays.csv")
 
